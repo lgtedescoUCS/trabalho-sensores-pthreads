@@ -11,7 +11,7 @@ Professor: Samuel Francisco Ferrigo
 Instituicao: Universidade de Caxias do Sul — 2026
 
 ## Video de apresentacao
-[Cole aqui o link do YouTube nao listado depois de subir]
+https://youtu.be/ogDkb14Yy6w
 
 ## Requisitos
 - Linux (Ubuntu, Debian, ou similar) ou WSL no Windows
