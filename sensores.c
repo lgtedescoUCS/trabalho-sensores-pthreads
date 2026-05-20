@@ -94,7 +94,7 @@ void* thread_logger(void* arg) {
         while (log_ready == 0 && !processamento_concluido) 
             pthread_cond_wait(&log_cond, &log_mutex);
         if (log_ready) {
-            fprintf(f, "%s\n", log_buffer); // Removi o [LOG] fixo para formatar dinamicamente
+            fprintf(f, "%s\n", log_buffer); 
             fflush(f);
             log_ready = 0;
         }
